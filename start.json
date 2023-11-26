@@ -1,7 +1,0 @@
-{
-    "name": "Автозапуск Lampa",
-    "version": "0.0.1",
-	"parameter": "menu:http://lampa.nnmtv.site/msx/start.json",
-	"action": "link:http://lampa.nnmtv.site/",
-    "menu": []
-}
