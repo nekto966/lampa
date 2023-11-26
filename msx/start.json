@@ -1,7 +1,7 @@
 {
     "name": "Автозапуск Lampa",
     "version": "0.0.1",
-	"parameter": "menu:http://lampa.nnmtv.site/msx/start.json",
-	"action": "link:http://lampa.nnmtv.site/",
+	"parameter": "menu:https://raw.githubusercontent.com/nekto966/lampa/main/msx/start.json",
+	"action": "link:http://lampa.mx/",
     "menu": []
 }
